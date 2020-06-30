@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MemoSingleObjects/bird.jpg</file>
+        <file>MemoSingleObjects/cat.jpg</file>
+        <file>MemoSingleObjects/glasses.jpg</file>
+        <file>MemoSingleObjects/present.jpg</file>
+        <file>MemoSingleObjects/sandwich.jpg</file>
+        <file>MemoSingleObjects/tree.jpg</file>
+        <file>MemoSingleObjects/coffee.jpg</file>
+        <file>MemoSingleObjects/dog.jpg</file>
+        <file>MemoSingleObjects/earth.jpg</file>
+        <file>MemoSingleObjects/football.jpg</file>
+        <file>MemoSingleObjects/whiteboard.jpg</file>
+        <file>MemoSingleObjects/apple.jpg</file>
+        <file>MemoSingleObjects/backgroundsquare.jfif</file>
+        <file>MemoSingleObjects/backgroundWidget.jfif</file>
+        <file>MemoSingleObjects/backgroundWidget2.jfif</file>
+        <file>MemoSingleObjects/backgroundWidget3.png</file>
+    </qresource>
+</RCC>
